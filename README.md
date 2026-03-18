@@ -14,7 +14,7 @@
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,html,css,js,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,js,mysql,git,github,vscode" />
 </p>
 
 ---
@@ -31,22 +31,28 @@
 ---
 
 ## 🚀 Projects
-- 🌦️ **Weather App****
+- 🌦️ **Weather App**
 - 🌐 **Resilient Web (Hackathon Project)**
-- 💻 *Placement Predictor (Hackathon Project)**
+- 💻 **Placement Predictor (Hackathon Project)**
 
 ---
 
 ## 📫 Connect with Me
 <p align="center">
-  <a href="www.linkedin.com/in/divyanshu-raj-346668310"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="mailto:084divyanshuraj@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://www.linkedin.com/in/divyanshu-raj-346668310">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:084divyanshuraj@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
 </p>
 
 ---
 
-## 🔥 Quote
-> "Code. Learn. Build. Repeat."
+## 💡 Random Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
 
 ---
 

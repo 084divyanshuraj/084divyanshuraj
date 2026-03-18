@@ -31,10 +31,9 @@
 ---
 
 ## 🚀 Projects
-- 📌 **Assignment & Notes Manager** (Python + MySQL)
-- 🌦️ **Weather App**
-- 🧠 **Voice Controlled Assistant (Upcoming)**
+- 🌦️ **Weather App****
 - 🌐 **Resilient Web (Hackathon Project)**
+- 💻 *Placement Predictor (Hackathon Project)**
 
 ---
 

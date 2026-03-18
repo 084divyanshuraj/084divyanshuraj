@@ -40,8 +40,8 @@
 
 ## 📫 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINK"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="mailto:your-email@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="www.linkedin.com/in/divyanshu-raj-346668310"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="mailto:084divyanshuraj@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
 
 ---

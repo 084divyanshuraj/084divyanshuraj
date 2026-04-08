@@ -5,7 +5,7 @@
 
 ## 🌟 About Me
 - 🎓 2nd Year B.Tech CSE Student  
-- 💻 Currently learning **Java & DSA**
+- 💻 Currently learning **Python & DSA**
 - 🚀 Working on **Projects & Hackathons**
 - 🌱 Exploring **Web Development & AI**
 - ⚡ Fun fact: I turn ☕ into code 😄

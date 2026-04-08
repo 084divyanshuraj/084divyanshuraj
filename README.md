@@ -34,6 +34,7 @@
 - 🌦️ **Weather App**
 - 🌐 **Resilient Web (Hackathon Project)**
 - 💻 **Placement Predictor (Hackathon Project)**
+- 👾 **Teen Titans Go-Game (Hackathon Project)**
 - 🤑 **FinDNA-Financial Personality Analyser (Hackthon Project)**
 
 ---

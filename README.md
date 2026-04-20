@@ -49,6 +49,9 @@
   </a>
 </p>
 
+<p align="center">
+  📧 <a href="mailto:084divyanshuraj@gmail.com">084divyanshuraj@gmail.com</a>
+</p>
 ---
 
 ## 💡 Random Dev Quote

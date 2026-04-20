@@ -44,14 +44,9 @@
   <a href="https://www.linkedin.com/in/divyanshu-raj-346668310">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="mailto:084divyanshuraj@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-</p>
-
-<p align="center">
-  📧 <a href="mailto:084divyanshuraj@gmail.com">084divyanshuraj@gmail.com</a>
-</p>
+ <a href="mailto:084divyanshuraj@gmail.com" target="_blank">
+  <img src="https://skillicons.dev/icons?i=gmail" />
+</a>
 ---
 
 ## 💡 Random Dev Quote

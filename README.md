@@ -33,7 +33,7 @@
 ## 🚀 Projects
 - 🌦️ **Weather App**
 - 🌐 **Resilient Web (Hackathon Project)**
-- 💻 **Placement Predictor (Hackathon Project)**
+- 💻 **Student Placement Detection (Hackathon Project)**
 - 👾 **Teen Titans Go-Game (Gaming Hackathon Project)**
 - 🤑 **FinDNA-Financial Personality Analyser (Hackthon Project)**
 

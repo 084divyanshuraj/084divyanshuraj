@@ -36,6 +36,7 @@
 - 💻 **Student Placement Detection (Hackathon Project)**
 - 👾 **Teen Titans Go-Game (Gaming Hackathon Project)**
 - 🤑 **FinDNA-Financial Personality Analyser (Hackthon Project)**
+- 🍎 **Apple-Replica Website (FSD Project for 4th sem)**
 
 ---
 

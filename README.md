@@ -31,7 +31,6 @@
 ---
 
 ## 🚀 Projects
-## 🚀 Projects
 
 - 🌐 **Personal Portfolio Website**
   Showcases my projects, skills, and achievements with clean UI.

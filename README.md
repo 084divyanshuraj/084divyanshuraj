@@ -31,12 +31,29 @@
 ---
 
 ## 🚀 Projects
+## 🚀 Projects
+
+- 🌐 **Personal Portfolio Website**
+  Showcases my projects, skills, and achievements with clean UI.
+  🔗 [Live Demo](https://084divyanshuraj.github.io/Portfolio/)
+
 - 🌦️ **Weather App**
+  A simple application to fetch and display real-time weather data using APIs.
+
 - 🌐 **Resilient Web (Hackathon Project)**
-- 💻 **Student Placement Detection (Hackathon Project)**
-- 👾 **Teen Titans Go-Game (Gaming Hackathon Project)**
-- 🤑 **FinDNA-Financial Personality Analyser (Hackthon Project)**
-- 🍎 **Apple-Replica Website (FSD Project for 4th sem)**
+  Offline-first disaster response platform enabling users to send help requests even without internet.
+
+- 🎯 **Student Placement Detection (Hackathon Project)**
+  Predicts student placement chances based on academic and skill data.
+
+- 🎮 **Teen Titans Go - Game (Hackathon Project)**
+  A fun interactive game built as part of a gaming hackathon.
+
+- 🧠 **FIN-DNA: Financial Personality Analyzer (Hackathon Project)**
+  Analyzes user financial behavior and categorizes personality types.
+
+- 🍎 **Apple Replica Website (FSD Project)**
+  A full-stack clone of Apple's website focusing on UI/UX and responsiveness.
 
 ---
 

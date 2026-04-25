@@ -5,14 +5,14 @@
 </p>
 
 🌟 About Me
-
-🎓 2nd Year B.Tech CSE Student at [Your College Name]
-💻 Currently mastering Python & DSA (practising on LeetCode & HackerRank)
-🚀 Actively building Projects & participating in Hackathons
-🌱 Exploring Full Stack Web Development & Artificial Intelligence
-🤝 Open to internships, collaborations, and open-source contributions
-⚡ Fun fact: I turn ☕ into code 😄
-
+<ul>
+  <li>🎓 2nd Year B.Tech CSE Student at <strong>[Your College Name]</strong></li>
+  <li>💻 Currently mastering <strong>Python & DSA</strong> (practising on LeetCode & HackerRank)</li>
+  <li>🚀 Actively building <strong>Projects</strong> & participating in <strong>Hackathons</strong></li>
+  <li>🌱 Exploring <strong>Full Stack Web Development & Artificial Intelligence</strong></li>
+  <li>🤝 Open to <strong>internships, collaborations, and open-source contributions</strong></li>
+  <li>⚡ Fun fact: I turn ☕ into code 😄</li>
+</ul>
 
 🛠️ Tech Stack
 <p align="center">
@@ -36,24 +36,24 @@
 </p>
 
 🚀 Projects
+<ul>
+  <li>🌐 <strong>Personal Portfolio Website</strong> — Showcases my projects, skills & achievements with a clean UI.<br>
+  🛠️ <code>HTML</code> <code>CSS</code> <code>JavaScript</code> &nbsp;|&nbsp; 🔗 <a href="https://084divyanshuraj.github.io/Portfolio/">Live Demo</a> · <a href="#">GitHub Repo</a></li>
+  <li>🌦️ <strong>Weather App</strong> — Fetches and displays real-time weather data using public APIs.<br>
+  🛠️ <code>HTML</code> <code>CSS</code> <code>JavaScript</code> <code>OpenWeather API</code> &nbsp;|&nbsp; 🔗 <a href="#">GitHub Repo</a></li>
+  <li>🌐 <strong>Resilient Web</strong> <em>(Hackathon)</em> — Offline-first disaster response platform; send help requests without internet.<br>
+  🛠️ <code>HTML</code> <code>JavaScript</code> <code>Service Workers</code> &nbsp;|&nbsp; 🔗 <a href="#">GitHub Repo</a></li>
+  <li>🎯 <strong>Student Placement Detector</strong> <em>(Hackathon)</em> — Predicts student placement chances from academic & skill data using ML.<br>
+  🛠️ <code>Python</code> <code>Scikit-learn</code> <code>Pandas</code> &nbsp;|&nbsp; 🔗 <a href="#">GitHub Repo</a></li>
+  <li>🎮 <strong>Teen Titans Go - Game</strong> <em>(Hackathon)</em> — A fun interactive browser game built during a gaming hackathon.<br>
+  🛠️ <code>HTML</code> <code>CSS</code> <code>JavaScript</code> &nbsp;|&nbsp; 🔗 <a href="#">GitHub Repo</a></li>
+  <li>🧠 <strong>FIN-DNA: Financial Personality Analyzer</strong> <em>(Hackathon)</em> — Analyzes financial behavior & categorizes personality types.<br>
+  🛠️ <code>Python</code> <code>Flask</code> &nbsp;|&nbsp; 🔗 <a href="#">GitHub Repo</a></li>
+  <li>🍎 <strong>Apple Replica Website</strong> <em>(FSD Project)</em> — Full-stack clone of Apple's website focused on UI/UX & responsiveness.<br>
+  🛠️ <code>HTML</code> <code>CSS</code> <code>JavaScript</code> &nbsp;|&nbsp; 🔗 <a href="#">GitHub Repo</a></li>
+</ul>
 
-🌐 Personal Portfolio Website — Showcases my projects, skills & achievements with a clean UI.<br>
-🛠️ HTML CSS JavaScript  |  🔗 Live Demo · GitHub Repo
-🌦️ Weather App — Fetches and displays real-time weather data using public APIs.<br>
-🛠️ HTML CSS JavaScript OpenWeather API  |  🔗 GitHub Repo
-🌐 Resilient Web (Hackathon) — Offline-first disaster response platform; send help requests without internet.<br>
-🛠️ HTML JavaScript Service Workers  |  🔗 GitHub Repo
-🎯 Student Placement Detector (Hackathon) — Predicts student placement chances from academic & skill data using ML.<br>
-🛠️ Python Scikit-learn Pandas  |  🔗 GitHub Repo
-🎮 Teen Titans Go - Game (Hackathon) — A fun interactive browser game built during a gaming hackathon.<br>
-🛠️ HTML CSS JavaScript  |  🔗 GitHub Repo
-🧠 FIN-DNA: Financial Personality Analyzer (Hackathon) — Analyzes financial behavior & categorizes personality types.<br>
-🛠️ Python Flask  |  🔗 GitHub Repo
-🍎 Apple Replica Website (FSD Project) — Full-stack clone of Apple's website focused on UI/UX & responsiveness.<br>
-🛠️ HTML CSS JavaScript  |  🔗 GitHub Repo
-
-
-🔗 Replace all [GitHub Repo](#) links with your actual repository URLs.
+🔗 Replace all GitHub Repo links with your actual repository URLs.
 
 
 📫 Connect with Me

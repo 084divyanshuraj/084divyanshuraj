@@ -36,9 +36,38 @@
 </p>
 
 🚀 Projects
-ProjectDescriptionTech StackLinks🌐 Personal PortfolioShowcases my projects, skills & achievements with a clean UIHTML, CSS, JSLive · Repo🌦️ Weather AppFetches and displays real-time weather data using APIsHTML, CSS, JS, OpenWeather APIRepo🌐 Resilient Web (Hackathon)Offline-first disaster response platform — send help requests without internetHTML, JS, Service WorkersRepo🎯 Student Placement Detector (Hackathon)Predicts student placement chances from academic & skill dataPython, Scikit-learn, PandasRepo🎮 Teen Titans Go Game (Hackathon)Fun interactive game built for a gaming hackathonHTML, CSS, JSRepo🧠 FIN-DNA (Hackathon)Analyzes user financial behavior & categorizes personality typesPython, FlaskRepo🍎 Apple Replica WebsiteFull-stack clone of Apple's website — focus on UI/UX & responsivenessHTML, CSS, JSRepo
 
-🔗 Replace [Repo](#) links above with your actual GitHub repository URLs.
+🌐 Personal Portfolio Website
+Showcases my projects, skills & achievements with a clean UI.
+🛠️ HTML CSS JavaScript
+🔗 Live Demo · GitHub Repo
+🌦️ Weather App
+Fetches and displays real-time weather data using public APIs.
+🛠️ HTML CSS JavaScript OpenWeather API
+🔗 GitHub Repo
+🌐 Resilient Web (Hackathon Project)
+Offline-first disaster response platform — users can send help requests even without internet.
+🛠️ HTML JavaScript Service Workers
+🔗 GitHub Repo
+🎯 Student Placement Detector (Hackathon Project)
+Predicts student placement chances based on academic & skill data using ML.
+🛠️ Python Scikit-learn Pandas
+🔗 GitHub Repo
+🎮 Teen Titans Go - Game (Hackathon Project)
+A fun interactive browser game built during a gaming hackathon.
+🛠️ HTML CSS JavaScript
+🔗 GitHub Repo
+🧠 FIN-DNA: Financial Personality Analyzer (Hackathon Project)
+Analyzes user financial behavior and categorizes personality types.
+🛠️ Python Flask
+🔗 GitHub Repo
+🍎 Apple Replica Website (FSD Project)
+Full-stack clone of Apple's website focusing on UI/UX and responsiveness.
+🛠️ HTML CSS JavaScript
+🔗 GitHub Repo
+
+
+🔗 Replace all [GitHub Repo](#) links with your actual repository URLs.
 
 
 📫 Connect with Me

@@ -7,7 +7,7 @@
 🌟 About Me
 
 🎓 2nd Year B.Tech CSE Student at [Your College Name]
-💻 Currently mastering Python, DSA (practising on LeetCode & HackerRank)
+💻 Currently mastering Python & DSA (practising on LeetCode & HackerRank)
 🚀 Actively building Projects & participating in Hackathons
 🌱 Exploring Full Stack Web Development & Artificial Intelligence
 🤝 Open to internships, collaborations, and open-source contributions
@@ -37,34 +37,20 @@
 
 🚀 Projects
 
-🌐 Personal Portfolio Website
-Showcases my projects, skills & achievements with a clean UI.
-🛠️ HTML CSS JavaScript
-🔗 Live Demo · GitHub Repo
-🌦️ Weather App
-Fetches and displays real-time weather data using public APIs.
-🛠️ HTML CSS JavaScript OpenWeather API
-🔗 GitHub Repo
-🌐 Resilient Web (Hackathon Project)
-Offline-first disaster response platform — users can send help requests even without internet.
-🛠️ HTML JavaScript Service Workers
-🔗 GitHub Repo
-🎯 Student Placement Detector (Hackathon Project)
-Predicts student placement chances based on academic & skill data using ML.
-🛠️ Python Scikit-learn Pandas
-🔗 GitHub Repo
-🎮 Teen Titans Go - Game (Hackathon Project)
-A fun interactive browser game built during a gaming hackathon.
-🛠️ HTML CSS JavaScript
-🔗 GitHub Repo
-🧠 FIN-DNA: Financial Personality Analyzer (Hackathon Project)
-Analyzes user financial behavior and categorizes personality types.
-🛠️ Python Flask
-🔗 GitHub Repo
-🍎 Apple Replica Website (FSD Project)
-Full-stack clone of Apple's website focusing on UI/UX and responsiveness.
-🛠️ HTML CSS JavaScript
-🔗 GitHub Repo
+🌐 Personal Portfolio Website — Showcases my projects, skills & achievements with a clean UI.<br>
+🛠️ HTML CSS JavaScript  |  🔗 Live Demo · GitHub Repo
+🌦️ Weather App — Fetches and displays real-time weather data using public APIs.<br>
+🛠️ HTML CSS JavaScript OpenWeather API  |  🔗 GitHub Repo
+🌐 Resilient Web (Hackathon) — Offline-first disaster response platform; send help requests without internet.<br>
+🛠️ HTML JavaScript Service Workers  |  🔗 GitHub Repo
+🎯 Student Placement Detector (Hackathon) — Predicts student placement chances from academic & skill data using ML.<br>
+🛠️ Python Scikit-learn Pandas  |  🔗 GitHub Repo
+🎮 Teen Titans Go - Game (Hackathon) — A fun interactive browser game built during a gaming hackathon.<br>
+🛠️ HTML CSS JavaScript  |  🔗 GitHub Repo
+🧠 FIN-DNA: Financial Personality Analyzer (Hackathon) — Analyzes financial behavior & categorizes personality types.<br>
+🛠️ Python Flask  |  🔗 GitHub Repo
+🍎 Apple Replica Website (FSD Project) — Full-stack clone of Apple's website focused on UI/UX & responsiveness.<br>
+🛠️ HTML CSS JavaScript  |  🔗 GitHub Repo
 
 
 🔗 Replace all [GitHub Repo](#) links with your actual repository URLs.

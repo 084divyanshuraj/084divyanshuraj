@@ -6,7 +6,7 @@
 
 🌟 About Me
 <ul>
-  <li>🎓 2nd Year B.Tech CSE Student at <strong>[Your College Name]</strong></li>
+  <li>🎓 2nd Year B.Tech CSE Student at <strong>Vignan University</strong></li>
   <li>💻 Currently mastering <strong>Python & DSA</strong> (practising on LeetCode & HackerRank)</li>
   <li>🚀 Actively building <strong>Projects</strong> & participating in <strong>Hackathons</strong></li>
   <li>🌱 Exploring <strong>Full Stack Web Development & Artificial Intelligence</strong></li>

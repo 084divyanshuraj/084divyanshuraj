@@ -9,7 +9,7 @@
 
 ## 🌟 About Me
 
-- 🎓 **1st Year B.Tech CSE** at **Vignan University** (2024–2028)
+- 🎓 **3rd Year B.Tech CSE** at **Vignan University** (2024–2028)
 - 🏆 **1st Place @ VCODE 2026** Hackathon — built DevDuck AI, a persistent AI dev ecosystem
 - 💡 Primarily a **backend developer** — Python, REST APIs, CLI tools, and ML pipelines
 - 🧩 Solved **140+ LeetCode problems** across Arrays, Strings, Trees, DP & Sliding Window

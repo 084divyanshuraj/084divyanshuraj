@@ -37,7 +37,7 @@
 
 🚀 Projects
 <ul>
-  <li>🦆 <strong>DevDuck AI</strong> <em>(Hackathon — Quackathon)</em> — AI-powered developer ecosystem that ingests your codebase, remembers past bugs, and acts as a 24/7 senior engineer. Features voice-activated onboarding, architecture flowcharts, a smart terminal wrapper, and a GitHub PR auto-reviewer.<br>
+  <li>🦆 <strong>DevDuck AI</strong> <em>(Quackathon)</em> — AI-powered developer ecosystem that ingests your codebase, remembers past bugs, and acts as a 24/7 senior engineer. Features voice-activated onboarding, architecture flowcharts, a smart terminal wrapper, and a GitHub PR auto-reviewer.<br>
   🛠️ <code>Next.js</code> <code>Python</code> <code>Parcle Memory API</code> <code>TailwindCSS</code> <code>GitHub Actions</code> &nbsp;|&nbsp; 🔗 <a href="https://dev-duck-ai.vercel.app/">Live Demo</a> · <a href="https://github.com/084divyanshuraj/DevDuck-AI">GitHub Repo</a></li>
   <li>🌐 <strong>Personal Portfolio Website</strong> — Showcases my projects, skills & achievements with a clean UI.<br>
   🛠️ <code>HTML</code> <code>CSS</code> <code>JavaScript</code> &nbsp;|&nbsp; 🔗 <a href="https://084divyanshuraj.github.io/Portfolio/">Live Demo</a> · <a href="https://github.com/084divyanshuraj/Portfolio">GitHub Repo</a></li>
@@ -47,7 +47,7 @@
   🛠️ <code>HTML</code> <code>JavaScript</code> <code>Service Workers</code> &nbsp;|&nbsp; 🔗 <a href="https://github.com/084divyanshuraj/resilient-web">GitHub Repo</a></li>
   <li>🎯 <strong>Student Placement Detector</strong> <em>(Hackathon)</em> — Predicts student placement chances from academic & skill data using ML.<br>
   🛠️ <code>Python</code> <code>Scikit-learn</code> <code>Pandas</code> &nbsp;|&nbsp; 🔗 <a href="https://github.com/084divyanshuraj/Student_placement_detection">GitHub Repo</a></li>
-  <li>🎮 <strong>Teen Titans Go - Game</strong> <em>(Hackathon)</em> — A fun interactive browser game built during a gaming hackathon.<br>
+  <li>🎮 <strong>Teen Titans Go - Game</strong> <em>(Gameathon)</em> — A fun interactive browser game built during a gaming hackathon.<br>
   🛠️ <code>HTML</code> <code>CSS</code> <code>JavaScript</code> &nbsp;|&nbsp; 🔗 <a href="https://github.com/084divyanshuraj/teen-tinas-go-game">GitHub Repo</a></li>
   <li>🧠 <strong>FIN-DNA: Financial Personality Analyzer</strong> <em>(Hackathon)</em> — Analyzes financial behavior & categorizes personality types.<br>
   🛠️ <code>Python</code> <code>Flask</code> &nbsp;|&nbsp; 🔗 <a href="https://github.com/084divyanshuraj/FinDNA">GitHub Repo</a></li>

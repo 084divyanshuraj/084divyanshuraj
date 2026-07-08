@@ -6,12 +6,11 @@
 
 🌟 About Me
 <ul>
-  <li>🎓 3rd Year B.Tech CSE Student (2024–2028) at <strong>Vignan University</strong>, Guntur — CGPA 7.86</li>
+  <li>🎓 3rd Year B.Tech CSE Student (2024–2028) at <strong>Vignan University</strong></li>
   <li>💻 Building across <strong>Full-Stack Web Development</strong> and <strong>Artificial Intelligence / ML</strong></li>
   <li>🚀 9+ Projects shipped, active hackathon participant across 6+ events</li>
   <li>🧩 160+ LeetCode problems & 700+ CodeChef problems solved (highest rating: 1120)</li>
   <li>♟️ Chess enthusiast — always thinking a few moves ahead</li>
-  <li>🎤 Anchored <strong>Mahotsav</strong>, my college's national-level cultural fest</li>
   <li>🤝 Open to <strong>internships, collaborations, and open-source contributions</strong></li>
   <li>⚡ Fun fact: I turn ☕ into code 😄</li>
 </ul>

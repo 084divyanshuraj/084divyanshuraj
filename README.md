@@ -25,8 +25,8 @@ Anchored Mahotsav 2026 (national-level fest) · 1st place, VCODE 2026 Technical 
 
 ### > featured_build
 
-**🛣️ CivLens** — AI-powered municipal infrastructure reporting platform. Uses Gemini AI to detect road damage from photos, gamifies civic reporting, and models repair budgets predictively. Built solo, submitted as part of Team NextGen Innovators for **Tata Technologies InnoVent 2026** with a full deck, architecture diagram, and project report.
-`Next.js` `Firebase` `Gemini AI` `TailwindCSS` — [Live](https://civ-lens.vercel.app/) · [Repo](https://github.com/084divyanshuraj/CivLens)
+**🦆 DevDuck AI** — AI-powered developer ecosystem that ingests your entire codebase, remembers past bugs, and acts as a 24/7 senior engineer. Features voice-activated onboarding, architecture flowcharts, a smart terminal wrapper, and a GitHub PR auto-reviewer. Built for **Quackathon**.
+`Next.js` `Python` `Parcle API` `TailwindCSS` `GitHub Actions` — [Live](https://dev-duck-ai.vercel.app/) · [Repo](https://github.com/084divyanshuraj/DevDuck-AI)
 
 ---
 
@@ -34,7 +34,7 @@ Anchored Mahotsav 2026 (national-level fest) · 1st place, VCODE 2026 Technical 
 
 | Project | What it does | Stack | Links |
 |---|---|---|---|
-| 🦆 **DevDuck AI** | AI dev ecosystem — ingests your codebase, remembers past bugs, auto-reviews PRs, voice-activated onboarding | `Next.js` `Python` `Parcle API` | [Live](https://dev-duck-ai.vercel.app/) · [Repo](https://github.com/084divyanshuraj/DevDuck-AI) |
+| 🛣️ **CivLens** | AI-powered municipal infra reporting — Gemini AI detects road damage from photos, gamified civic reporting, predictive repair budgets. Solo build for **Vibe2Ship** | `Next.js` `Firebase` `Gemini AI` | [Live](https://civ-lens.vercel.app/) · [Repo](https://github.com/084divyanshuraj/CivLens) |
 | 🧠 **FinDNA** | ML classifier analyzing financial behavior to categorize spending/risk personality | `Python` `Flask` `ML` | [Repo](https://github.com/084divyanshuraj/FinDNA) |
 | 🎯 **Placement Predictor** | Predicts campus placement odds from academic + extracurricular data | `Python` `Pandas` `ML` | [Live](https://student-placement-detection-9yfssrsme-anvitha98243s-projects.vercel.app/) · [Repo](https://github.com/084divyanshuraj/Student_placement_detection) |
 | 🌐 **Resilient Web** | Offline-first disaster response app — works with zero internet | `JS` `Service Workers` | [Repo](https://github.com/084divyanshuraj/resilient-web) |

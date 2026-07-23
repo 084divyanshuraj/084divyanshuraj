@@ -18,7 +18,7 @@
 ```
 3rd year B.Tech CSE @ Vignan University (2024–2028) · CGPA 7.86
 Anchored Mahotsav 2026 (national-level fest) · 1st place, VCODE 2026 Technical Quiz
-160+ LeetCode · 700+ CodeChef (peak rating 1120) · chess player, always a few moves ahead
+170+ LeetCode · 700+ CodeChef (peak rating 1120) · chess player, always a few moves ahead
 ```
 
 ---

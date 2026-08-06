@@ -7,7 +7,7 @@
 <p>
   <img src="https://komarev.com/ghpvc/?username=084divyanshuraj&label=Profile%20views&color=00ffea&style=flat-square" alt="profile views" />
   <a href="https://084divyanshuraj.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=00ffea" /></a>
-  <a href="https://www.linkedin.com/in/divyanshu-raj-346668310"><img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=00ffea" /></a>
+  <a href="www.linkedin.com/in/divyanshuraj084"><img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=00ffea" /></a>
   <a href="mailto:084divyanshuraj@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=00ffea" /></a>
 </p>
 

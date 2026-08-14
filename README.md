@@ -13,7 +13,7 @@
 
 </div>
 
-### > Who am  I
+### > whoami
 
 ```
 3rd year B.Tech CSE @ Vignan University (2024–2028) · CGPA 7.86
